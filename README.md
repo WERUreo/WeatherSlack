@@ -4,7 +4,7 @@ This demo was part of a talk I gave at the [Orlando iOS Developers Meetup](https
 
 ### NOTES
 - If you want to run this Slack command, you will need to obtain an API Key from [OpenWeatherMap](http://openweathermap.org).  Once you have your API key, you can do one of two things: 
-1) you can create an environment variable called `$OPEN_WEATHER_MAP_KEY` with the value of your API key
-2) you can create a new folder under `Config/` called `secrets`.  In that folder, you will copy the `app.json` file from `Config/` into `Config/secrets`.  Then, you would replace `$OPEN_WEATHER_MAP_KEY` with your actual API key
+  1. you can create an environment variable called `$OPEN_WEATHER_MAP_KEY` with the value of your API key
+  2. you can create a new folder under `Config/` called `secrets`.  In that folder, you will copy the `app.json` file from `Config/` into `Config/secrets`.  Then, you would replace `$OPEN_WEATHER_MAP_KEY` with your actual API key
 
 Presentation slides will be available soon.
